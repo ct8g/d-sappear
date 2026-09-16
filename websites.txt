@@ -1,0 +1,33 @@
+This text file contains a collection of useful websites and online resources that you may find helpful for your own projects, research, or general use.
+
+These websites are provided as references only and are not affiliated with, operated by, or endorsed by this project unless explicitly stated otherwise. Please review each website's own terms of service, privacy policy, and usage guidelines before using it.
+The list may be updated over time as new resources are discovered or existing websites become unavailable. Some links may also change, stop working, or require an account or additional permissions.
+Use these resources responsibly and at your own discretion.
+
+OSINT
+
+https://tracked.sh/
+https://whocalld.com/
+https://www.usphonebook.com/
+https://www.exifdata.com/
+https://osintframework.com/
+https://thatsthem.com/
+https://epieos.com/
+https://bellingcat.gitbook.io/toolkit
+https://www.osint.industries/
+https://picarta.ai/
+
+OPSEC 
+
+https://urlebird.com/
+https://app.simplelogin.io/
+https://temp-mail.org/en/
+
+APPS
+
+TELEGRAM
+SESSION
+DISBAND
+MULLVAD VPN
+TOR BROWSER
+BRAVE
